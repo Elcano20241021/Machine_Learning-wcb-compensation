@@ -39,7 +39,7 @@ Built using **Streamlit**, this app enables users to simulate real-time claim pr
 
 ## Contributors
 
-- [20211561@novaims.unl.pt](https://github.com/diogokursi/ML2425/commits?author=diogokursi)
+- [20211561@novaims.unl.pt]. https://github.com/diogokursi/ML2425/commits?author=diogokursi
 - [20241433@novaims.unl.pt]
 - [20240333@novaims.unl.pt]
 - [20240694@novaims.unl.pt]

@@ -37,7 +37,7 @@ Watch our model prediction interface in action:
 
 Built using **Streamlit**, this app enables users to simulate real-time claim predictions based on input features — demonstrating the operational value of machine learning in decision support systems.
 
-## Contributors
+## Authors
 
 - [20211561@novaims.unl.pt]. https://github.com/diogokursi/ML2425/commits?author=diogokursi
 - [20241433@novaims.unl.pt]

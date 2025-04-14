@@ -33,7 +33,7 @@ See comparison table of Macro F1 scores below:
 
 ## Youtube
 Watch our model prediction interface in action:  
-[Web Application Demo](https://www.youtube.com/watch?v=lomxaOXgKUY)
+[Web Application Demo][https://www.youtube.com/watch?v=lomxaOXgKUY]
 
 Built using **Streamlit**, this app enables users to simulate real-time claim predictions based on input features — demonstrating the operational value of machine learning in decision support systems.
 
